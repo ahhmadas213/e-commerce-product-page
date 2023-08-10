@@ -1,0 +1,1 @@
+export const META_THEME_COLOR = 'hsl(26, 100%, 55%)'

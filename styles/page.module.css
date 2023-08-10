@@ -1,0 +1,9 @@
+.small_image {
+    display: none;
+}
+
+@media (max-width: 992px) {
+    .small_image {
+        display: block;
+    }
+}
