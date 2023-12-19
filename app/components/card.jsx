@@ -22,7 +22,7 @@ function Cart({ itemInCart, updateItemInCart, amount }) {
 
   return (
     <>
-      <article className="bg-white rounded-2xl shadow-2xl w-80 p-3 
+      <article className="bg-white rounded-2xl
       shadow-2xl absolute top-28 right-1/2 translate-x-1/2  
       lg:translate-x-0 lg:right-20 mt-10 lg:mt-3 w-11/12 md:w-96 ">
         <h2 className="border-b border-slate-600 text-lg font-bold">cart</h2>

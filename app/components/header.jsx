@@ -5,7 +5,6 @@ import avatar from '../images/image-avatar.png';
 import { FaShoppingCart } from 'react-icons/fa';
 import menueIcon from "../images/icon-menu.svg";
 import { IoMdClose } from "react-icons/io";
-import Cart from "./card";
 
 function Header({ updateShowCart, showCart, itemInCart }) {
   const [isOpen, setIsOpen] = useState(false);
@@ -31,6 +30,7 @@ function Header({ updateShowCart, showCart, itemInCart }) {
               <li>Women</li>
               <li>About</li>
               <li>Contact</li>
+              <li>Offers</li>
             </ul>
           </nav>
         </div>
