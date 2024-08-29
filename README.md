@@ -4,4 +4,4 @@
 
 
 
-## <a href="https://ahmed-e-commerce-product-page.netlify.app/">a live version</a>
+## <a href="https://ahmed-e-commerce-product-page.netlify.app/" target="_blank">a live version</a>
